@@ -1,0 +1,3 @@
+After unzipping please run "npm install"
+
+than npm start should start the server locally
